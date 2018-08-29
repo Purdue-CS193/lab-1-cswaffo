@@ -1,4 +1,4 @@
-## GITHUB!
+# Cyrus Swafford's first CS193 lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Github is a web-based hosting service for version control using Git. It is mostly used for computer code.
@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- TAs are pretty nice and helpful
+- Meeting new people with similar interests to me
+- Learning about computers because I have no prior knowledge
 
 1. Numbered
 2. List
