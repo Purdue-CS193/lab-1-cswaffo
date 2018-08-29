@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## GITHUB!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+Github is a web-based hosting service for version control using Git. It is mostly used for computer code.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
